@@ -4,9 +4,7 @@ A framework for generating candidate molecular structures (SMILES) conditioned o
 This repository provides implementations such as conditional generative models (e.g. `_vae`), and can be extended with other approaches in the future.
 
 ## Installation
-
 Make sure you have Python 3.10+ and `pip` installed. Then run:
-
 ```bash
 sudo apt update
 sudo apt -y install python3-pip
@@ -21,6 +19,11 @@ pip3 uninstall -y orb-models chgnet
 
 # Install PyTorch stack
 pip3 install torch==2.3.1 torchvision==0.18.1 torchaudio==2.3.1 --no-cache-dir
+```
+
+## Usage
+```
+python3 data2smiles_vae_v1.py
 ```
 
 ## PC specs used for test
