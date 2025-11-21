@@ -1,0 +1,200 @@
+name,metal,smiles,target_data,activation,carbonization_temp_C,surface_area_m2_g,conditions_K,conditions_bar
+MOF-5(Zn-BDC),Zn,O=C(O)c1ccc(cc1)C(=O)O.[Zn+2],4.5,None,500,3500,77,1
+HKUST-1(Cu-BTC),Cu,O=C(O)c1ccccc1C(=O)O.[Cu+2],2.5,None,500,1800,77,1
+UiO-66(Zr-BDC),Zr,O=C(O)c1ccc(cc1)C(=O)O.[Zr+4],1.5,None,500,1443,77,1
+Ni(NO3)2-derived carbon,Ni,[Ni+2].[O-]N(=O)=O,1,None,700,1200,77,1
+Co(NO3)2-derived carbon,Co,[Co+2].[O-]N(=O)=O,0.9,None,700,1100,77,1
+Fe(NO3)3-derived carbon,Fe,[Fe+3].[O-]N(=O)=O,0.8,None,700,1000,77,1
+Graphene sheet carbon,C,C1=CC=CC=C1,5,None,700,2600,77,1
+CNT tubular carbon,C,C1=CC=CC=C1,6,None,700,2000,77,1
+Zn-BDC porous carbon,Zn,O=C(O)c1ccc(cc1)C(=O)O.[Zn+2],4.8,KOH,600,3200,77,1
+Cu-BTC mesoporous carbon,Cu,O=C(O)c1ccccc1C(=O)O.[Cu+2],4.2,H3PO4,700,2800,77,1
+Zr-BDC microporous carbon,Zr,O=C(O)c1ccc(cc1)C(=O)O.[Zr+4],4.6,Steam,800,3000,77,1
+Ni-nitrate activated carbon,Ni,[Ni+2].[O-]N(=O)=O,5.1,ZnCl2,900,3400,77,1
+Co-nitrate derived carbon,Co,[Co+2].[O-]N(=O)=O,2.8,None,600,2500,77,1
+Fe-nitrate porous carbon,Fe,[Fe+3].[O-]N(=O)=O,3.7,KOH,700,2600,77,1
+Aromatic ring carbon,C,C1=CC=CC=C1,5.5,Steam,800,2700,77,1
+Zn-BDC high surface carbon,Zn,O=C(O)c1ccc(cc1)C(=O)O.[Zn+2],5.2,H3PO4,900,3800,77,1
+Cu-BTC hierarchical carbon,Cu,O=C(O)c1ccccc1C(=O)O.[Cu+2],3.3,ZnCl2,600,2900,77,1
+Zr-BDC steam-treated carbon,Zr,O=C(O)c1ccc(cc1)C(=O)O.[Zr+4],4,KOH,700,3100,77,1
+Ni-nitrate mesoporous carbon,Ni,[Ni+2].[O-]N(=O)=O,5.6,Steam,800,3300,77,1
+Zr-BDC steam-activated carbon,Zr,O=C(O)c1ccc(cc1)C(=O)O.[Zr+4],4.3,Steam,700,3100,77,1
+Cu-BTC ZnCl2-treated carbon,Cu,O=C(O)c1ccccc1C(=O)O.[Cu+2],3.6,ZnCl2,800,2950,77,1
+Zn-BDC microporous carbon,Zn,O=C(O)c1ccc(cc1)C(=O)O.[Zn+2],4.7,None,600,2700,77,1
+Ni-nitrate steam-derived carbon,Ni,[Ni+2].[O-]N(=O)=O,5.3,Steam,900,3300,77,1
+Fe-nitrate ZnCl2-derived carbon,Fe,[Fe+3].[O-]N(=O)=O,4.9,ZnCl2,700,3200,77,1
+Co-nitrate H3PO4-treated carbon,Co,[Co+2].[O-]N(=O)=O,5.1,H3PO4,800,3100,77,1
+Aromatic carbon (Steam),C,C1=CC=CC=C1,5.6,Steam,800,3000,77,1
+Zr-BDC ZnCl2-derived carbon,Zr,O=C(O)c1ccc(cc1)C(=O)O.[Zr+4],4.2,ZnCl2,900,2800,77,1
+Cu-BTC KOH-activated carbon,Cu,O=C(O)c1ccccc1C(=O)O.[Cu+2],3.8,KOH,700,2650,77,1
+Zn-BDC steam-treated carbon,Zn,O=C(O)c1ccc(cc1)C(=O)O.[Zn+2],5.4,Steam,900,3500,77,1
+Ni-nitrate ZnCl2-derived carbon,Ni,[Ni+2].[O-]N(=O)=O,2.9,ZnCl2,600,2400,77,1
+Fe-nitrate steam-derived carbon,Fe,[Fe+3].[O-]N(=O)=O,5.5,Steam,800,3600,77,1
+Co-nitrate ZnCl2-derived carbon,Co,[Co+2].[O-]N(=O)=O,3.2,ZnCl2,700,2500,77,1
+Graphene oxide carbon,C,C1=CC=CC=C1,5.7,None,700,2800,77,1
+Zr-BDC H3PO4-treated carbon,Zr,O=C(O)c1ccc(cc1)C(=O)O.[Zr+4],4.1,H3PO4,800,2900,77,1
+Cu-BTC steam-derived carbon,Cu,O=C(O)c1ccccc1C(=O)O.[Cu+2],4.4,Steam,900,3100,77,1
+Zn-BDC ZnCl2-derived carbon,Zn,O=C(O)c1ccc(cc1)C(=O)O.[Zn+2],3.9,ZnCl2,700,2600,77,1
+Ni-nitrate KOH-activated carbon,Ni,[Ni+2].[O-]N(=O)=O,4.6,KOH,800,2700,77,1
+Fe-nitrate H3PO4-treated carbon,Fe,[Fe+3].[O-]N(=O)=O,5,H3PO4,900,3400,77,1
+Co-nitrate steam-derived carbon,Co,[Co+2].[O-]N(=O)=O,2.7,Steam,600,2300,77,1
+Zr-BDC steam-derived carbon,Zr,O=C(O)c1ccc(cc1)C(=O)O.[Zr+4],5.3,Steam,900,3600,77,1
+Cu-BTC KOH-activated porous carbon,Cu,O=C(O)c1ccccc1C(=O)O.[Cu+2],4.6,KOH,800,3400,77,1
+Zn-BDC ZnCl2-treated mesoporous carbon,Zn,O=C(O)c1ccc(cc1)C(=O)O.[Zn+2],4.9,ZnCl2,700,3300,77,1
+Ni-nitrate H3PO4-derived carbon,Ni,[Ni+2].[O-]N(=O)=O,5.2,H3PO4,900,3500,77,1
+Fe-nitrate steam-activated carbon,Fe,[Fe+3].[O-]N(=O)=O,5.6,Steam,800,3700,77,1
+Co-nitrate ZnCl2-derived carbon,Co,[Co+2].[O-]N(=O)=O,4.1,ZnCl2,600,3200,77,1
+Graphene KOH-treated carbon,C,C1=CC=CC=C1,5.7,KOH,700,3100,77,1
+Zr-BDC H3PO4-derived carbon,Zr,O=C(O)c1ccc(cc1)C(=O)O.[Zr+4],4.4,H3PO4,800,3000,77,1
+Cu-BTC steam-activated carbon,Cu,O=C(O)c1ccccc1C(=O)O.[Cu+2],5,Steam,900,3600,77,1
+Zn-BDC KOH-derived carbon,Zn,O=C(O)c1ccc(cc1)C(=O)O.[Zn+2],5.3,KOH,800,3400,77,1
+Ni-nitrate ZnCl2-treated carbon,Ni,[Ni+2].[O-]N(=O)=O,4.8,ZnCl2,700,3300,77,1
+Fe-nitrate H3PO4-derived carbon,Fe,[Fe+3].[O-]N(=O)=O,5.5,H3PO4,900,3500,77,1
+Co-nitrate steam-treated carbon,Co,[Co+2].[O-]N(=O)=O,4.7,Steam,800,3400,77,1
+Aromatic ring ZnCl2-derived carbon,C,C1=CC=CC=C1,5.6,ZnCl2,700,3300,77,1
+Zr-BDC ZnCl2-treated carbon,Zr,O=C(O)c1ccc(cc1)C(=O)O.[Zr+4],5.2,ZnCl2,900,3600,77,1
+Cu-BTC H3PO4-derived carbon,Cu,O=C(O)c1ccccc1C(=O)O.[Cu+2],4.3,H3PO4,600,3200,77,1
+Zn-BDC steam-derived carbon,Zn,O=C(O)c1ccc(cc1)C(=O)O.[Zn+2],5.4,Steam,900,3700,77,1
+Ni-nitrate KOH-derived carbon,Ni,[Ni+2].[O-]N(=O)=O,5.1,KOH,800,3400,77,1
+Fe-nitrate ZnCl2-treated carbon,Fe,[Fe+3].[O-]N(=O)=O,5,ZnCl2,700,3300,77,1
+Co-nitrate H3PO4-derived carbon,Co,[Co+2].[O-]N(=O)=O,5.3,H3PO4,900,3500,77,1
+Zr-BDC KOH-derived porous carbon,Zr,O=C(O)c1ccc(cc1)C(=O)O.[Zr+4],4.9,KOH,800,3450,77,1
+Cu-BTC steam-activated mesoporous carbon,Cu,O=C(O)c1ccccc1C(=O)O.[Cu+2],4.7,Steam,700,3300,77,1
+Zn-BDC H3PO4-derived microporous carbon,Zn,O=C(O)c1ccc(cc1)C(=O)O.[Zn+2],5.5,H3PO4,900,3600,77,1
+Ni-nitrate ZnCl2-treated mesoporous carbon,Ni,[Ni+2].[O-]N(=O)=O,4.2,ZnCl2,600,3100,77,1
+Fe-nitrate KOH-derived porous carbon,Fe,[Fe+3].[O-]N(=O)=O,4.8,KOH,700,3250,77,1
+Co-nitrate steam-activated microporous carbon,Co,[Co+2].[O-]N(=O)=O,5,Steam,800,3350,77,1
+Graphene steam-treated carbon,C,C1=CC=CC=C1,5.6,Steam,900,3700,77,1
+Zr-BDC ZnCl2-derived mesoporous carbon,Zr,O=C(O)c1ccc(cc1)C(=O)O.[Zr+4],5.1,ZnCl2,700,3400,77,1
+Cu-BTC H3PO4-derived microporous carbon,Cu,O=C(O)c1ccccc1C(=O)O.[Cu+2],4.3,H3PO4,600,3200,77,1
+Zn-BDC steam-activated porous carbon,Zn,O=C(O)c1ccc(cc1)C(=O)O.[Zn+2],5.4,Steam,900,3500,77,1
+Ni-nitrate KOH-derived microporous carbon,Ni,[Ni+2].[O-]N(=O)=O,4.9,KOH,800,3300,77,1
+Fe-nitrate ZnCl2-derived mesoporous carbon,Fe,[Fe+3].[O-]N(=O)=O,5.2,ZnCl2,700,3400,77,1
+Co-nitrate H3PO4-derived porous carbon,Co,[Co+2].[O-]N(=O)=O,5.3,H3PO4,900,3600,77,1
+Aromatic ring KOH-derived carbon,C,C1=CC=CC=C1,5.7,KOH,700,3500,77,1
+Zr-BDC steam-activated microporous carbon,Zr,O=C(O)c1ccc(cc1)C(=O)O.[Zr+4],4.8,Steam,800,3450,77,1
+Cu-BTC ZnCl2-derived porous carbon,Cu,O=C(O)c1ccccc1C(=O)O.[Cu+2],4.6,ZnCl2,700,3300,77,1
+Zn-BDC KOH-derived microporous carbon,Zn,O=C(O)c1ccc(cc1)C(=O)O.[Zn+2],5.5,KOH,800,3400,77,1
+Ni-nitrate steam-activated porous carbon,Ni,[Ni+2].[O-]N(=O)=O,5.2,Steam,900,3500,77,1
+Fe-nitrate H3PO4-derived microporous carbon,Fe,[Fe+3].[O-]N(=O)=O,5.6,H3PO4,800,3600,77,1
+Co-nitrate ZnCl2-derived microporous carbon,Co,[Co+2].[O-]N(=O)=O,4.4,ZnCl2,600,3200,77,1
+Zr-BDC H3PO4-derived microporous carbon,Zr,O=C(O)c1ccc(cc1)C(=O)O.[Zr+4],4.7,H3PO4,700,3300,77,1
+Cu-BTC ZnCl2-treated mesoporous carbon,Cu,O=C(O)c1ccccc1C(=O)O.[Cu+2],5,ZnCl2,900,3500,77,1
+Zn-BDC steam-activated microporous carbon,Zn,O=C(O)c1ccc(cc1)C(=O)O.[Zn+2],5.4,Steam,800,3400,77,1
+Ni-nitrate KOH-derived mesoporous carbon,Ni,[Ni+2].[O-]N(=O)=O,4.8,KOH,700,3200,77,1
+Fe-nitrate steam-treated microporous carbon,Fe,[Fe+3].[O-]N(=O)=O,5.6,Steam,900,3600,77,1
+Co-nitrate H3PO4-derived mesoporous carbon,Co,[Co+2].[O-]N(=O)=O,5.2,H3PO4,800,3300,77,1
+Graphene ZnCl2-derived carbon,C,C1=CC=CC=C1,5.5,ZnCl2,700,3100,77,1
+Zr-BDC steam-activated mesoporous carbon,Zr,O=C(O)c1ccc(cc1)C(=O)O.[Zr+4],5.3,Steam,900,3500,77,1
+Cu-BTC KOH-derived microporous carbon,Cu,O=C(O)c1ccccc1C(=O)O.[Cu+2],4.6,KOH,700,3300,77,1
+Zn-BDC H3PO4-treated mesoporous carbon,Zn,O=C(O)c1ccc(cc1)C(=O)O.[Zn+2],5.5,H3PO4,900,3600,77,1
+Ni-nitrate steam-derived microporous carbon,Ni,[Ni+2].[O-]N(=O)=O,5.1,Steam,800,3400,77,1
+Fe-nitrate ZnCl2-treated mesoporous carbon,Fe,[Fe+3].[O-]N(=O)=O,5,ZnCl2,700,3300,77,1
+Co-nitrate KOH-derived microporous carbon,Co,[Co+2].[O-]N(=O)=O,4.9,KOH,800,3200,77,1
+Aromatic ring steam-derived carbon,C,C1=CC=CC=C1,5.6,Steam,900,3500,77,1
+Zr-BDC ZnCl2-treated microporous carbon,Zr,O=C(O)c1ccc(cc1)C(=O)O.[Zr+4],5.2,ZnCl2,700,3400,77,1
+Cu-BTC steam-derived microporous carbon,Cu,O=C(O)c1ccccc1C(=O)O.[Cu+2],5,Steam,900,3600,77,1
+Zn-BDC KOH-derived mesoporous carbon,Zn,O=C(O)c1ccc(cc1)C(=O)O.[Zn+2],5.3,KOH,800,3400,77,1
+Ni-nitrate H3PO4-treated microporous carbon,Ni,[Ni+2].[O-]N(=O)=O,5.2,H3PO4,900,3500,77,1
+Fe-nitrate steam-activated mesoporous carbon,Fe,[Fe+3].[O-]N(=O)=O,5.6,Steam,800,3600,77,1
+Co-nitrate ZnCl2-treated microporous carbon,Co,[Co+2].[O-]N(=O)=O,4.4,ZnCl2,600,3200,77,1
+Zr-BDC KOH-treated microporous carbon,Zr,O=C(O)c1ccc(cc1)C(=O)O.[Zr+4],4.9,KOH,800,3400,77,1
+Cu-BTC steam-derived mesoporous carbon,Cu,O=C(O)c1ccccc1C(=O)O.[Cu+2],4.7,Steam,700,3300,77,1
+Zn-BDC H3PO4-treated microporous carbon,Zn,O=C(O)c1ccc(cc1)C(=O)O.[Zn+2],5.5,H3PO4,900,3600,77,1
+Ni-nitrate ZnCl2-derived mesoporous carbon,Ni,[Ni+2].[O-]N(=O)=O,4.2,ZnCl2,600,3100,77,1
+Fe-nitrate KOH-treated microporous carbon,Fe,[Fe+3].[O-]N(=O)=O,4.8,KOH,700,3250,77,1
+Co-nitrate steam-derived mesoporous carbon,Co,[Co+2].[O-]N(=O)=O,5,Steam,800,3350,77,1
+Graphene H3PO4-treated carbon,C,C1=CC=CC=C1,5.6,H3PO4,900,3700,77,1
+Zr-BDC ZnCl2-derived microporous carbon,Zr,O=C(O)c1ccc(cc1)C(=O)O.[Zr+4],5.1,ZnCl2,700,3400,77,1
+Cu-BTC KOH-derived mesoporous carbon,Cu,O=C(O)c1ccccc1C(=O)O.[Cu+2],4.6,KOH,800,3200,77,1
+Zn-BDC steam-derived microporous carbon,Zn,O=C(O)c1ccc(cc1)C(=O)O.[Zn+2],5.4,Steam,900,3500,77,1
+Ni-nitrate H3PO4-derived mesoporous carbon,Ni,[Ni+2].[O-]N(=O)=O,5.2,H3PO4,900,3400,77,1
+Fe-nitrate ZnCl2-derived microporous carbon,Fe,[Fe+3].[O-]N(=O)=O,5,ZnCl2,700,3300,77,1
+Co-nitrate KOH-derived mesoporous carbon,Co,[Co+2].[O-]N(=O)=O,4.9,KOH,800,3200,77,1
+Aromatic ring steam-derived microporous carbon,C,C1=CC=CC=C1,5.6,Steam,900,3500,77,1
+Zr-BDC H3PO4-derived mesoporous carbon,Zr,O=C(O)c1ccc(cc1)C(=O)O.[Zr+4],4.7,H3PO4,700,3300,77,1
+Cu-BTC ZnCl2-treated microporous carbon,Cu,O=C(O)c1ccccc1C(=O)O.[Cu+2],5,ZnCl2,900,3500,77,1
+Zn-BDC steam-activated mesoporous carbon,Zn,O=C(O)c1ccc(cc1)C(=O)O.[Zn+2],5.4,Steam,800,3400,77,1
+Ni-nitrate KOH-derived microporous carbon,Ni,[Ni+2].[O-]N(=O)=O,4.8,KOH,700,3200,77,1
+Fe-nitrate steam-derived mesoporous carbon,Fe,[Fe+3].[O-]N(=O)=O,5.6,Steam,900,3600,77,1
+Co-nitrate H3PO4-derived microporous carbon,Co,[Co+2].[O-]N(=O)=O,5.2,H3PO4,800,3300,77,1
+Zr-BDC steam-derived mesoporous carbon,Zr,O=C(O)c1ccc(cc1)C(=O)O.[Zr+4],5.3,Steam,900,3550,77,1
+Cu-BTC H3PO4-treated microporous carbon,Cu,O=C(O)c1ccccc1C(=O)O.[Cu+2],4.5,H3PO4,800,3250,77,1
+Zn-BDC ZnCl2-derived mesoporous carbon,Zn,O=C(O)c1ccc(cc1)C(=O)O.[Zn+2],5.4,ZnCl2,700,3450,77,1
+Ni-nitrate steam-derived mesoporous carbon,Ni,[Ni+2].[O-]N(=O)=O,5.1,Steam,900,3350,77,1
+Fe-nitrate H3PO4-treated mesoporous carbon,Fe,[Fe+3].[O-]N(=O)=O,5.6,H3PO4,800,3400,77,1
+Co-nitrate KOH-derived microporous carbon,Co,[Co+2].[O-]N(=O)=O,4.8,KOH,700,3300,77,1
+Graphene steam-activated porous carbon,C,C1=CC=CC=C1,5.7,Steam,900,3600,77,1
+Zr-BDC ZnCl2-treated microporous carbon,Zr,O=C(O)c1ccc(cc1)C(=O)O.[Zr+4],5.2,ZnCl2,800,3400,77,1
+Cu-BTC steam-derived mesoporous carbon,Cu,O=C(O)c1ccccc1C(=O)O.[Cu+2],5,Steam,900,3500,77,1
+Zn-BDC KOH-treated microporous carbon,Zn,O=C(O)c1ccc(cc1)C(=O)O.[Zn+2],5.3,KOH,800,3400,77,1
+Ni-nitrate ZnCl2-derived microporous carbon,Ni,[Ni+2].[O-]N(=O)=O,4.9,ZnCl2,700,3200,77,1
+Fe-nitrate steam-derived microporous carbon,Fe,[Fe+3].[O-]N(=O)=O,5.6,Steam,900,3600,77,1
+Co-nitrate H3PO4-treated mesoporous carbon,Co,[Co+2].[O-]N(=O)=O,5.2,H3PO4,800,3300,77,1
+Aromatic ring KOH-treated porous carbon,C,C1=CC=CC=C1,5.7,KOH,700,3500,77,1
+Zr-BDC steam-activated microporous carbon,Zr,O=C(O)c1ccc(cc1)C(=O)O.[Zr+4],4.8,Steam,800,3450,77,1
+Cu-BTC ZnCl2-derived microporous carbon,Cu,O=C(O)c1ccccc1C(=O)O.[Cu+2],4.6,ZnCl2,700,3300,77,1
+Zn-BDC H3PO4-treated mesoporous carbon,Zn,O=C(O)c1ccc(cc1)C(=O)O.[Zn+2],5.5,H3PO4,900,3600,77,1
+Ni-nitrate KOH-treated porous carbon,Ni,[Ni+2].[O-]N(=O)=O,5.1,KOH,800,3400,77,1
+Fe-nitrate ZnCl2-derived mesoporous carbon,Fe,[Fe+3].[O-]N(=O)=O,5,ZnCl2,700,3300,77,1
+Co-nitrate steam-derived microporous carbon,Co,[Co+2].[O-]N(=O)=O,5,Steam,800,3400,77,1
+Zr-BDC KOH-treated mesoporous carbon,Zr,O=C(O)c1ccc(cc1)C(=O)O.[Zr+4],4.9,KOH,800,3450,77,1
+Cu-BTC steam-derived microporous carbon,Cu,O=C(O)c1ccccc1C(=O)O.[Cu+2],4.7,Steam,700,3300,77,1
+Zn-BDC H3PO4-treated porous carbon,Zn,O=C(O)c1ccc(cc1)C(=O)O.[Zn+2],5.5,H3PO4,900,3600,77,1
+Ni-nitrate ZnCl2-derived microporous carbon,Ni,[Ni+2].[O-]N(=O)=O,4.2,ZnCl2,600,3100,77,1
+Fe-nitrate KOH-treated mesoporous carbon,Fe,[Fe+3].[O-]N(=O)=O,4.8,KOH,700,3250,77,1
+Co-nitrate steam-derived porous carbon,Co,[Co+2].[O-]N(=O)=O,5,Steam,800,3350,77,1
+Graphene KOH-activated carbon,C,C1=CC=CC=C1,5.6,KOH,900,3700,77,1
+Zr-BDC ZnCl2-derived porous carbon,Zr,O=C(O)c1ccc(cc1)C(=O)O.[Zr+4],5.1,ZnCl2,700,3400,77,1
+Cu-BTC H3PO4-treated mesoporous carbon,Cu,O=C(O)c1ccccc1C(=O)O.[Cu+2],4.6,H3PO4,800,3200,77,1
+Zn-BDC steam-derived porous carbon,Zn,O=C(O)c1ccc(cc1)C(=O)O.[Zn+2],5.4,Steam,900,3500,77,1
+Ni-nitrate H3PO4-treated porous carbon,Ni,[Ni+2].[O-]N(=O)=O,5.2,H3PO4,900,3400,77,1
+Fe-nitrate ZnCl2-derived porous carbon,Fe,[Fe+3].[O-]N(=O)=O,5,ZnCl2,700,3300,77,1
+Co-nitrate KOH-treated mesoporous carbon,Co,[Co+2].[O-]N(=O)=O,4.9,KOH,800,3200,77,1
+Aromatic ring steam-derived porous carbon,C,C1=CC=CC=C1,5.6,Steam,900,3500,77,1
+Zr-BDC H3PO4-treated porous carbon,Zr,O=C(O)c1ccc(cc1)C(=O)O.[Zr+4],4.7,H3PO4,700,3300,77,1
+Cu-BTC ZnCl2-derived mesoporous carbon,Cu,O=C(O)c1ccccc1C(=O)O.[Cu+2],5,ZnCl2,900,3500,77,1
+Zn-BDC KOH-treated porous carbon,Zn,O=C(O)c1ccc(cc1)C(=O)O.[Zn+2],5.3,KOH,800,3400,77,1
+Ni-nitrate steam-derived porous carbon,Ni,[Ni+2].[O-]N(=O)=O,5.2,Steam,900,3500,77,1
+Fe-nitrate H3PO4-treated porous carbon,Fe,[Fe+3].[O-]N(=O)=O,5.6,H3PO4,800,3600,77,1
+Co-nitrate ZnCl2-derived porous carbon,Co,[Co+2].[O-]N(=O)=O,4.4,ZnCl2,600,3200,77,1
+Zr-BDC KOH-activated porous carbon,Zr,O=C(O)c1ccc(cc1)C(=O)O.[Zr+4],5.1,KOH,900,3550,77,1
+Cu-BTC steam-treated microporous carbon,Cu,O=C(O)c1ccccc1C(=O)O.[Cu+2],4.8,Steam,800,3400,77,1
+Zn-BDC H3PO4-activated mesoporous carbon,Zn,O=C(O)c1ccc(cc1)C(=O)O.[Zn+2],5.3,H3PO4,700,3300,77,1
+Ni-nitrate KOH-treated porous carbon,Ni,[Ni+2].[O-]N(=O)=O,5.2,KOH,900,3600,77,1
+Fe-nitrate steam-treated mesoporous carbon,Fe,[Fe+3].[O-]N(=O)=O,5.5,Steam,800,3450,77,1
+Co-nitrate ZnCl2-activated microporous carbon,Co,[Co+2].[O-]N(=O)=O,4.7,ZnCl2,700,3250,77,1
+Graphene H3PO4-activated carbon,C,C1=CC=CC=C1,5.6,H3PO4,900,3700,77,1
+Zr-BDC steam-treated mesoporous carbon,Zr,O=C(O)c1ccc(cc1)C(=O)O.[Zr+4],5,Steam,800,3400,77,1
+Cu-BTC ZnCl2-activated porous carbon,Cu,O=C(O)c1ccccc1C(=O)O.[Cu+2],5.1,ZnCl2,900,3550,77,1
+Zn-BDC KOH-treated microporous carbon,Zn,O=C(O)c1ccc(cc1)C(=O)O.[Zn+2],5.4,KOH,800,3350,77,1
+Ni-nitrate steam-treated mesoporous carbon,Ni,[Ni+2].[O-]N(=O)=O,4.9,Steam,700,3200,77,1
+Fe-nitrate H3PO4-activated porous carbon,Fe,[Fe+3].[O-]N(=O)=O,5.6,H3PO4,900,3600,77,1
+Co-nitrate KOH-treated mesoporous carbon,Co,[Co+2].[O-]N(=O)=O,5,KOH,800,3300,77,1
+Aromatic ring ZnCl2-treated carbon,C,C1=CC=CC=C1,5.7,ZnCl2,700,3400,77,1
+Zr-BDC H3PO4-treated microporous carbon,Zr,O=C(O)c1ccc(cc1)C(=O)O.[Zr+4],4.8,H3PO4,700,3300,77,1
+Cu-BTC steam-activated mesoporous carbon,Cu,O=C(O)c1ccccc1C(=O)O.[Cu+2],5.2,Steam,900,3500,77,1
+Zn-BDC ZnCl2-treated porous carbon,Zn,O=C(O)c1ccc(cc1)C(=O)O.[Zn+2],5.3,ZnCl2,800,3450,77,1
+Ni-nitrate H3PO4-treated microporous carbon,Ni,[Ni+2].[O-]N(=O)=O,5.1,H3PO4,900,3600,77,1
+Fe-nitrate steam-activated porous carbon,Fe,[Fe+3].[O-]N(=O)=O,5.5,Steam,800,3400,77,1
+Co-nitrate ZnCl2-treated mesoporous carbon,Co,[Co+2].[O-]N(=O)=O,4.9,ZnCl2,700,3300,77,1
+Zr-BDC steam-activated porous carbon,Zr,O=C(O)c1ccc(cc1)C(=O)O.[Zr+4],5.3,Steam,900,3550,77,1
+Cu-BTC KOH-treated mesoporous carbon,Cu,O=C(O)c1ccccc1C(=O)O.[Cu+2],4.8,KOH,800,3400,77,1
+Zn-BDC H3PO4-derived microporous carbon,Zn,O=C(O)c1ccc(cc1)C(=O)O.[Zn+2],5.4,H3PO4,700,3300,77,1
+Ni-nitrate steam-activated porous carbon,Ni,[Ni+2].[O-]N(=O)=O,5.2,Steam,900,3600,77,1
+Fe-nitrate ZnCl2-treated microporous carbon,Fe,[Fe+3].[O-]N(=O)=O,5.5,ZnCl2,800,3450,77,1
+Co-nitrate H3PO4-derived porous carbon,Co,[Co+2].[O-]N(=O)=O,4.7,H3PO4,700,3250,77,1
+Graphene KOH-derived carbon,C,C1=CC=CC=C1,5.6,KOH,900,3700,77,1
+Zr-BDC ZnCl2-activated microporous carbon,Zr,O=C(O)c1ccc(cc1)C(=O)O.[Zr+4],5.1,ZnCl2,800,3400,77,1
+Cu-BTC steam-derived porous carbon,Cu,O=C(O)c1ccccc1C(=O)O.[Cu+2],5,Steam,900,3500,77,1
+Zn-BDC KOH-activated mesoporous carbon,Zn,O=C(O)c1ccc(cc1)C(=O)O.[Zn+2],5.3,KOH,800,3350,77,1
+Ni-nitrate H3PO4-derived microporous carbon,Ni,[Ni+2].[O-]N(=O)=O,5.1,H3PO4,900,3600,77,1
+Fe-nitrate steam-derived porous carbon,Fe,[Fe+3].[O-]N(=O)=O,5.5,Steam,800,3400,77,1
+Co-nitrate ZnCl2-treated mesoporous carbon,Co,[Co+2].[O-]N(=O)=O,4.9,ZnCl2,700,3300,77,1
+Aromatic ring H3PO4-derived carbon,C,C1=CC=CC=C1,5.7,H3PO4,700,3400,77,1
+Zr-BDC KOH-treated microporous carbon,Zr,O=C(O)c1ccc(cc1)C(=O)O.[Zr+4],4.9,KOH,800,3450,77,1
+Cu-BTC ZnCl2-derived porous carbon,Cu,O=C(O)c1ccccc1C(=O)O.[Cu+2],5.1,ZnCl2,900,3550,77,1
+Zn-BDC steam-derived microporous carbon,Zn,O=C(O)c1ccc(cc1)C(=O)O.[Zn+2],5.4,Steam,800,3400,77,1
+Ni-nitrate KOH-treated mesoporous carbon,Ni,[Ni+2].[O-]N(=O)=O,4.8,KOH,700,3200,77,1
+Fe-nitrate H3PO4-derived porous carbon,Fe,[Fe+3].[O-]N(=O)=O,5.6,H3PO4,900,3600,77,1
+Co-nitrate steam-derived microporous carbon,Co,[Co+2].[O-]N(=O)=O,5,Steam,800,3400,77,1
