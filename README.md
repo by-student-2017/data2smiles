@@ -23,6 +23,16 @@ pip3 uninstall -y orb-models chgnet
 pip3 install torch==2.3.1 torchvision==0.18.1 torchaudio==2.3.1 --no-cache-dir
 ```
 
+## PC specs used for test
+- OS: Microsoft Windows 11 Home 64 bit
+- BIOS: 1.14.0
+- CPU： 12th Gen Intel(R) Core(TM) i7-12700
+- Base Board：0R6PCT (A01)
+- Memory：32 GB
+- GPU: NVIDIA GeForce RTX3070
+- WSL2: VERSION="22.04.1 LTS (Jammy Jellyfish)"
+- Python 3.10.12
+
 ## requirements.txt
 ```
 pip freeze > requirements.txt
