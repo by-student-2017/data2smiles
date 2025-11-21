@@ -23,6 +23,7 @@ pip3 uninstall -y orb-models chgnet
 
 # Install PyTorch stack
 pip3 install torch==2.3.1 torchvision==0.18.1 torchaudio==2.3.1 --no-cache-dir
+```
 
 ---
 
